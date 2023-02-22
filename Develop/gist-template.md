@@ -3,7 +3,7 @@ As a full stack web development student, I have developed a tutorial explaning a
 
 
 ## Summary
-Typically,Regex or regular expressions aere used by strings-searching algorithms to search for or replace stings or to validtae input. is is a techique commonly used in theoretical computer science.
+Typically, Regex or regular expressions aere used by strings-searching algorithms to search for or replace stings or to validtae input. is is a techique commonly used in theoretical computer science.
 
 lets look a string code using regex to look for a match HTML tag
 
